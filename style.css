@@ -1,0 +1,26 @@
+div { 
+    width: 50%; 
+    margin-left: 25%;
+    margin-top: 40px;
+    text-align: center;
+}
+
+img {
+    width: 500px; 
+    border: 10px solid #FA7070
+    
+}
+body {background-color: #557C55;}
+
+#color {color: white;}
+
+h1{
+    font-family: 'Libre Baskerville', serif; font-size: 45px; text-transform: uppercase;
+}
+p { font-size: 21px; margin-top: -25px;}
+
+#M {
+    color: whitesmoke;
+    margin-top: 20px;
+    
+}
